@@ -1,0 +1,10 @@
+# Laravel
+/vendor
+/.env
+
+# Angular
+/node_modules
+/dist
+
+#..
+.DS_Store
